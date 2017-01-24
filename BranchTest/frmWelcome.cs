@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace BranchTest
 {
-    public partial class Form1 : Form
+    public partial class frmWelcome : Form
     {
-        public Form1()
+        public frmWelcome()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("Welcome");
         }
     }
 }
