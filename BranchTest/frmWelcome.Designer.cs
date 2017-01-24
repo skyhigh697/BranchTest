@@ -1,6 +1,6 @@
 ﻿namespace BranchTest
 {
-    partial class Form1
+    partial class frmWelcome
     {
         /// <summary>
         /// Required designer variable.

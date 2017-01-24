@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace BranchTest
 {
-    public partial class Form1 : Form
+    public partial class frmWelcome : Form
     {
-        public Form1()
+        public frmWelcome()
         {
             InitializeComponent();
         }
